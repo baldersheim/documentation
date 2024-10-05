@@ -1,4 +1,4 @@
-# Copyright Vespa.ai. Licensed under the terms of the Apache 2.0 license. See LICENSE in the project root.
+# Copyright Vespa.ai. All rights reserved.
 
 # Use a comma-separated list of URLs to test multiple pages as one unit, like the news-tutorial
 
@@ -9,7 +9,6 @@ urls:
     - en/vespa-quick-start-java.html
     - en/performance/practical-search-performance-guide.md
     - en/nearest-neighbor-search-guide.md
-    - https://vespa.ai/migrating-from-elastic-search-to-vespa
     - >-
         en/vespa-quick-start.html,
         en/operations-selfhosted/monitoring.html

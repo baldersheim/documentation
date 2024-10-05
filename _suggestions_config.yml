@@ -1,4 +1,4 @@
-# Copyright Vespa.ai. Licensed under the terms of the Apache 2.0 license. See LICENSE in the project root.
+# Copyright Vespa.ai. All rights reserved.
 
 search:
   namespace: "term"
@@ -19,10 +19,10 @@ search:
       indexes:
         - suggestions_index.json
     # vespacloud-docsearch // aws (enclave) // us-west-1c
-    - url: https://f10d3607.b68a8c0d.z.vespa-app.cloud/
+    - url: https://c967e4f5.b68a8c0d.z.vespa-app.cloud/
       indexes:
         - suggestions_index.json
     # vespacloud-docsearch // gcp (enclave) // us-central1-f
-    - url: https://ac5f3559.b68a8c0d.z.vespa-app.cloud/
+    - url: https://d13733c3.b68a8c0d.z.vespa-app.cloud/
       indexes:
         - suggestions_index.json
